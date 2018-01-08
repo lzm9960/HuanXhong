@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.Set;
 
 import comhu.dreamtea.administrator.huanchongdemo.app.App;
-import comhu.dreamtea.administrator.huanchongdemo.contract.Contract;
+import comhu.dreamtea.administrator.huanchongdemo.contract.net.Contract;
 import comhu.dreamtea.administrator.huanchongdemo.contract.cal.Callbacks;
 import okhttp3.Call;
 import okhttp3.Callback;
