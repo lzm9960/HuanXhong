@@ -17,7 +17,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".contract.ui.LunBoActivity" />
-        <activity android:name=".contract.ui.HomeActivity"></activity>
+        <activity android:name=".contract.ui.HomeActivity" />
+        <activity android:name=".contract.ui.Denglu"></activity>
+        <activity android:name=".contract.ui.RegisterActivity"></activity>
     </application>
 
 </manifest>
